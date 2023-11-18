@@ -1,0 +1,14 @@
+.loginmain{
+    margin-left: auto;
+}
+
+.loginsub{
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+   font-weight: bolder;
+  color:brown;
+  
+}
+.loginhead{
+    background-color:lightgrey;
+}
